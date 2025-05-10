@@ -37,7 +37,7 @@ This is the **home page** of the **HuePair** game hosted on a public website.
 
 ### Game Page (Game View)
 
-![Game Page Website](gamepageweb.png)
+![Game Page Website](gaempageweb.png)
 
 This is the **game page** where players can play the memory matching game.
 
@@ -49,7 +49,7 @@ This is the **mobile view** of the **HuePair** game on a smartphone, showing the
 
 ### Mobile View (Game Page)
 
-![Game Page Mobile View](https://your-image-link.com/mobile-game-page-screenshot.jpg)
+![Game Page Mobile View](gamePage.jpeg)
 
 This is the **mobile view** of the **game page**, showing the memory matching game on a smartphone.
 
