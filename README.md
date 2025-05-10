@@ -31,13 +31,13 @@
 
 ### Website View (Home Page)
 
-![Home Page Website](https://your-image-link.com/home-page-screenshot.jpg)
+![Home Page Website](Homepageweb.png)
 
 This is the **home page** of the **HuePair** game hosted on a public website.
 
 ### Game Page (Game View)
 
-![Game Page Website](gamePage.jpeg)
+![Game Page Website](gamepageweb.png)
 
 This is the **game page** where players can play the memory matching game.
 
@@ -75,7 +75,7 @@ The **HuePair** game is hosted on **Tiny.Host**, making it available as a public
 ### Steps to Install APK on Android:
 
 1. Download the APK file.
-   - [Download HuePair APK](#) *(link to your APK when uploaded)*
+   - [Download HuePair APK](https://drive.google.com/file/d/1Xi01mR7BY5AbQOyzUmSVDgWtE2b_u2_0/view?usp=sharing)
 
 2. Enable **Unknown Sources** installation on your Android device:
    - Go to **Settings** > **Security** > Enable **Install from Unknown Sources**.
