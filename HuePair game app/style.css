@@ -1,0 +1,139 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #333;
+    padding: 10px;
+}
+
+h1 {
+    margin-top: 30px;
+    font-size: 2.5rem;
+    color: #222;
+}
+
+/* Menu & Game Screen */
+#main-menu, #game-screen {
+    padding: 20px;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+}
+
+/* Hidden Class */
+.hidden {
+    display: none;
+}
+
+/* Buttons */
+.level-buttons button {
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 16px;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+    width: 100%; /* Make the button full width on small screens */
+    box-sizing: border-box;
+}
+
+.level-buttons button:hover {
+    background-color: #555;
+}
+
+.status {
+    margin: 20px 0;
+    font-size: 1.2rem;
+}
+
+/* Game Grid */
+#game-grid {
+    display: grid;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+    grid-template-columns: repeat(4, 60px);
+}
+
+.cell {
+    width: 60px;
+    height: 60px;
+    background-color: #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cell:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.cell.matched {
+    border: 3px solid green;
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+/* Status Buttons */
+.status button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 14px;
+    background-color: #222;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.status button:hover {
+    background-color: #444;
+}
+
+/* Slogan */
+.slogan {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .level-buttons button {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    #game-grid {
+        grid-template-columns: repeat(4, 50px); /* Smaller grid cells */
+    }
+
+    .cell {
+        width: 50px;
+        height: 50px;
+    }
+
+    .status {
+        font-size: 1rem;
+    }
+
+    .status button {
+        font-size: 12px;
+        padding: 8px 16px;
+    }
+}
