@@ -90,6 +90,4 @@ The **HuePair** game is hosted on **Tiny.Host**, making it available as a public
 - Add more levels and game modes.
 - Include a scoring system to track performance.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
