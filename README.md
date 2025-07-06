@@ -1,8 +1,8 @@
-# HueLink - Color Match Game
+# HuePair - Color Match Game
 
 ## Description
 
-**HueLink** is a fun and interactive memory matching game where users match colored circles. The game starts with a grid of colored circles, and users must pair matching colors within a set number of moves. The game becomes progressively harder with each level.
+**HuePair** is a fun and interactive memory matching game where users match colored circles. The game starts with a grid of colored circles, and users must pair matching colors within a set number of moves. The game becomes progressively harder with each level.
 
 - **Level 1**: 4x4 grid, 30 moves
 - **Level 2**: 6x4 grid, 40 moves
