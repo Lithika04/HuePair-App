@@ -75,7 +75,7 @@ The **HuePair** game is hosted on **Tiny.Host**, making it available as a public
 ### Steps to Install APK on Android:
 
 1. Download the APK file.
-   - [Download HuePair APK](https://drive.google.com/file/d/1Xi01mR7BY5AbQOyzUmSVDgWtE2b_u2_0/view?usp=sharing)
+   - [Download HuePair APK](https://drive.google.com/file/d/1f9sPJOIzkucGi1Yf944ft3lvAbaMMWeh/view?usp=sharing)
 
 2. Enable **Unknown Sources** installation on your Android device:
    - Go to **Settings** > **Security** > Enable **Install from Unknown Sources**.
