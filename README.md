@@ -1,11 +1,11 @@
-# HuePair - Color Match Game
+# HueLink - Color Match Game
 
 ## Description
 
-**HuePair** is a fun and interactive memory matching game where users match colored circles. The game starts with a grid of colored circles, and users must pair matching colors within a set number of moves. The game becomes progressively harder with each level.
+**HueLink** is a fun and interactive memory matching game where users match colored circles. The game starts with a grid of colored circles, and users must pair matching colors within a set number of moves. The game becomes progressively harder with each level.
 
 - **Level 1**: 4x4 grid, 30 moves
-- **Level 2**: 5x5 grid, 40 moves
+- **Level 2**: 6x4 grid, 40 moves
 - **Level 3**: 6x6 grid, 50 moves
 
 ## Features
@@ -55,9 +55,9 @@ This is the **mobile view** of the **game page**, showing the memory matching ga
 
 ## How to Access the Game Online
 
-The **HuePair** game is hosted on **Tiny.Host**, making it available as a public website. You can play the game directly in your web browser by visiting:
+The **HueLink** game is hosted on **Tiny.Host**, making it available as a public website. You can play the game directly in your web browser by visiting:
 
-[Play HuePair Game Online](https://blush-nissy-95.tiiny.site/)
+[Play HueLink Game Online](https://huelink.tiiny.site/)
 
 ## Converting to Mobile App (APK)
 
